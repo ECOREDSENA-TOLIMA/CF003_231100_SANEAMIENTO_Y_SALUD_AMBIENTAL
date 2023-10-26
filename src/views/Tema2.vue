@@ -159,11 +159,11 @@
               p Este es el envase interno que contiene la muestra y debe ser a prueba de filtraciones para evitar derrames. En caso de rotura o fuga, se debe utilizar material absorbente capaz de absorber todo el fluido.
             .col-md-4
               figure
-                img(src='@/assets/curso/temas/tema2/12.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema2/12.png')
           .row.justify-content-center.align-items-center
             .col-md-4
               figure
-                img(src='@/assets/curso/temas/tema2/13.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema2/13.png')
             .col-md-8.mb-4.mb-md-0
               h3 Recipiente secundario
               p Es otro envase resistente que envuelve y protege al recipiente primario. Puede contener varios recipientes primarios, pero debe estar diseñado para contener cualquier fuga o rotura de los envases internos. También se debe utilizar suficiente material absorbente en el recipiente secundario para absorber cualquier fluido que pueda escapar.
@@ -174,7 +174,7 @@
               p los recipientes secundarios se colocan en envases exteriores de transporte que cuentan con un material amortiguador adecuado para proteger el contenido de daños físicos durante el tránsito. Los recipientes exteriores deben tener dimensiones que no sean inferiores a 10x10 cm en ninguna de sus caras. Además, deben estar marcados y etiquetados correctamente y acompañados de los documentos de envío necesarios.
             .col-md-4
               figure
-                img(src='@/assets/curso/temas/tema2/14.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema2/14.png')
     
     p(data-aos="fade-left") Este envasado triple garantiza la seguridad en el transporte de sustancias peligrosas y cumple con las regulaciones para prevenir accidentes y proteger a las personas, los bienes y el medio ambiente.
     p(data-aos="fade-left") A continuación, se presentan algunos ejemplos de tipos de envases y embalajes que se utilizan para el transporte de muestras o elementos químicos, junto con los tiempos establecidos para el envío:
