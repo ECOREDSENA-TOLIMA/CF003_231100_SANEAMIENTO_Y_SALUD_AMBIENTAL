@@ -16,6 +16,9 @@
             ul.lista-ul--color
               li 
                 i.fas.fa-check
+                | Cada una de las muestras deben estar perfectamente identificadas y con la historia clínica completa.
+              li 
+                i.fas.fa-check
                 | Las muestras deben provenir de animales vivos, en distintas etapas de la enfermedad. En cadáveres la necropsia deberá ser realizada por personal capacitado, preferentemente en un lapso máximo de tres (3) horas posteriores a la muerte.
               li 
                 i.fas.fa-check
@@ -84,7 +87,7 @@
     .row.justify-content-center 
       .col-10
         .titulo-sexto.color-acento-contenido.mt-5
-          h5 Tabla 2
+          h5 Tabla 2.
           span #[em Puntos de recolección]
         .tabla-a.mb-5 
           table
@@ -182,7 +185,7 @@
     .row.justify-content-center 
       .col-10
         .titulo-sexto.color-acento-contenido.mt-5
-          h5 Tabla 2
+          h5 Tabla 2.
           span #[em Puntos de recolección]
         .tabla-a.mb-5 
           table
@@ -241,7 +244,7 @@
               .col-8
                 img(src='@/assets/curso/temas/tema2/15.svg' alt='AvatarTop')
             H2.text-center(style="color:#12263F") 1
-            p.text-bold.text-center(style="color:#12263F") Extracción y recolección de indicios
+            p.text-bold.text-center(style="color:#12263F") Extracción y recolección de indicios.
           .tarjeta.color-acento-botones.p-4.col-ipad(style="background-color: #D5FFF5")
             .row.justify-content-center.mb-3
               .col-8
@@ -270,14 +273,14 @@
     .row.justify-content-center
       .col-10.desktop
         .titulo-sexto.color-acento-contenido
-          h5 Figura 3
+          h5 Figura 3.
           span #[em Esquema de evidencias]
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema2/20.svg' alt='En la figura 3 se muestra el esquema que se debe tener en cuenta a la hora de recolectar evidencias.')
     .row.justify-content-center 
       .col-12.movil
         .titulo-sexto.color-acento-contenido
-          h5 Figura 3
+          h5 Figura 3.
           span #[em Esquema de evidencias]
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema2/21.svg' alt='En la figura 3 se muestra el esquema que se debe tener en cuenta a la hora de recolectar evidencias.')

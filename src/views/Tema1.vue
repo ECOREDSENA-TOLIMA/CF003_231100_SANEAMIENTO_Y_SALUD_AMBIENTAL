@@ -23,7 +23,7 @@
 
         .row
           .col-md-6.mb-4.mb-md-0
-            h4 Medidas y protocolos.
+            h4 Medidas y protocolos
             li El buen manejo de residuos especiales.
             li El almacenamiento de sustancias peligrosas o radioactivas.
             li El uso de barreras protectoras.
@@ -67,7 +67,7 @@
     .row.justify-content-center 
       .col-12
         .titulo-sexto.color-acento-contenido.mt-5
-          h5 Tabla 1
+          h5 Tabla 1.
           span #[em Aplicaciones de la bioseguridad]
         tabla-b.color-acento-contenido.mb-5
           .tabla-b__header
@@ -138,14 +138,14 @@
     .row.justify-content-center 
       .col-10.desktop
         .titulo-sexto.color-acento-contenido
-          h5 Figura 1
+          h5 Figura 1.
           span #[em Equipo de protección personal]
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema1/11.svg' alt='En la figura 1 se muestra el equipo de protección personal adecuado para la toma de muestras.')
     .row.justify-content-center 
       .col-12.movil
         .titulo-sexto.color-acento-contenido
-          h5 Figura 1
+          h5 Figura 1.
           span #[em Equipo de protección personal]
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema1/12.svg' alt='En la figura 1 se muestra el equipo de protección personal adecuado para la toma de muestras.')
@@ -231,14 +231,14 @@
     .row.justify-content-center.mt-5
       .col-10.desktop
         .titulo-sexto.color-acento-contenido
-          h5 Figura 2
+          h5 Figura 2.
           span #[em Objetivos de los elementos de protección personal]
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema1/16.svg' alt='En la figura 2 se muestran los diferentes tipos de elementos de protección personal, dependiendo del objetivo que cada uno de ellos tiene.')
     .row.justify-content-center 
       .col-12.movil
         .titulo-sexto.color-acento-contenido
-          h5 Figura 2
+          h5 Figura 2.
           span #[em Objetivos de los elementos de protección personal]
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema1/17.svg' alt='En la figura 2 se muestran los diferentes tipos de elementos de protección personal, dependiendo del objetivo que cada uno de ellos tiene.')

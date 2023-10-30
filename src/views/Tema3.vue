@@ -171,7 +171,16 @@
           li Restos de cepillo.
           li Células epiteliales como: saliva, sellos, sobres, mordazas, prendas de vestir y arañazos.
 
-    .row.justify-content-center
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/temas/tema3/14.svg' alt='AvatarTop')
+          .tarjeta(style="background-color:#FFEBDF")
+            .p-4
+            p.p-2 Es importante destacar que los virus no pueden reproducirse ni sobrevivir por largos períodos en los alimentos, ya que son microorganismos que dependen completamente de infectar células vivas para su reproducción. Los virus no tienen la maquinaria celular necesaria para llevar a cabo sus procesos de replicación fuera de un huésped vivo. Por lo tanto, cuando están presentes en los alimentos, no se multiplican ni crecen en ellos como lo hacen las bacterias.
+    
+    //-.row.justify-content-center
       .col-10
         .tarjeta.p-3.mb-5(style="background-color: #FFD4BB")
           .row.justify-content-around.align-items-center

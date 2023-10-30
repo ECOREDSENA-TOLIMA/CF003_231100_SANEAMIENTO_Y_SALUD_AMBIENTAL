@@ -10,8 +10,8 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Afianzamiento de conceptos relacionados a los procesos de inspección, vigilancia y control.
-        p.mb-4 #[b Objetivo] Identificar los factores de riesgos sanitarios que aporten a la inspección, vigilancia y control de acuerdo con protocolos técnicos y normativos.
+          h2 Afianzamiento de conceptos relacionados a los procesos de inspección, vigilancia y control
+        p.mb-4 #[b Objetivo:] Identificar los factores de riesgos sanitarios que aporten a la inspección, vigilancia y control de acuerdo con protocolos técnicos y normativos.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
