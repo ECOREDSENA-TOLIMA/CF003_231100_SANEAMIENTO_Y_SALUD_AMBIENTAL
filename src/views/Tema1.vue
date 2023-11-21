@@ -28,7 +28,7 @@
             li El almacenamiento de sustancias peligrosas o radioactivas.
             li El uso de barreras protectoras.
             li que aseguren el bienestar y la seguridad de todos.
-            li Conocimiento y apliación de normas.
+            li Conocimiento y aplicación de normas.
             li Aplicación adecuada de procedimientos.
         
           .col-md-6
@@ -102,7 +102,7 @@
         p(data-aos="fade-left") Partiendo de esto, la persona encargada debe ser responsable de la selección, recolección, prevención, el envío adecuado de las muestras y en general de todas aquellas pautas básicas de extracción y manipulación de las mismas, con el propósito de minimizar cualquier tipo de enfermedad infecciosa en esta logística.
 
     .row.justify-content-center.align-items-center
-      .col-lg-7.col-12.mb-0.text-small
+      .col-lg-7.col-12.mb-0
         .tarjeta.mb-3.p-4(style="background-color: #D5FFF5")
           p.text-bold Cada una de las muestras debe contener obligatoriamente los siguientes datos:
           ol.lista-ol.lista-ol
@@ -226,7 +226,7 @@
           img(src='@/assets/curso/temas/tema1/15.png')
       .col-lg-8.col-12
         .cajon.p-4.mb(style="background-color: #E7FFD1")
-          p(data-aos="fade-left") Es muy importante que estos trabajadores hagan uso de estos elementos ya que evitan poner a la persona en situaciones de riesgo y también prevenir accidentes que pueden perjudicar a las partes involucradas e incluso tratándose de enfermedades, pueden llegar a perjudicar a toda la población. Así mismo, entre los objetivos del uso de los elementos de protección individual, están: la protección, el control de riesgo y el fomento del desarrollo laboral; este último es indispensable ya que cada trabajador debe exigir a su empleador la dotación precisa de los implementos que requiera para cumplir su labor e igualmente, cada empleador tiene la obligación de suministrar las herramientas necesarias al personal que así lo requiera.
+          p(data-aos="fade-left") Es muy importante que estos trabajadores hagan uso de estos elementos, ya que evitan poner a la persona en situaciones de riesgo y también prevenir accidentes que pueden perjudicar a las partes involucradas e incluso tratándose de enfermedades, pueden llegar a perjudicar a toda la población. Así mismo, entre los objetivos del uso de los elementos de protección individual, están: la protección, el control de riesgo y el fomento del desarrollo laboral; este último es indispensable, ya que cada trabajador debe exigir a su empleador la dotación precisa de los implementos que requiera para cumplir su labor e igualmente, cada empleador tiene la obligación de suministrar las herramientas necesarias al personal que así lo requiera.
 
     .row.justify-content-center.mt-5
       .col-10.desktop

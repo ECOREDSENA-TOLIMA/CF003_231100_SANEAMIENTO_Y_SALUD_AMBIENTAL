@@ -185,7 +185,7 @@
     .row.justify-content-center 
       .col-10
         .titulo-sexto.color-acento-contenido.mt-5
-          h5 Tabla 2.
+          h5 Tabla 3.
           span #[em Puntos de recolección]
         .tabla-a.mb-5 
           table
