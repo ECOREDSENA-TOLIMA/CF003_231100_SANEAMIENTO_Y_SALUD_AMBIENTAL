@@ -15,7 +15,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h4 Norma de Bioseguridad
-            p Según la Organización Mundial de la Salud (OMS): "la bioseguridad es un enfoque estratégico e integrado para analizar y gestionar los riesgos relevantes para la vida y la salud humana, animal y vegetal y los riesgos asociados para el medio ambiente”
+            p Según la Organización Mundial de la Salud (OMS): ‟la bioseguridad es un enfoque estratégico e integrado para analizar y gestionar los riesgos relevantes para la vida y la salud humana, animal y vegetal y los riesgos asociados para el medio ambiente”
         
           .col-md-6
             figure
