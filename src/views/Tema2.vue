@@ -186,7 +186,7 @@
       .col-10
         .titulo-sexto.color-acento-contenido.mt-5
           h5 Tabla 3.
-          span #[em Puntos de recolección]
+          span #[em Condiciones de manejo]
         .tabla-a.mb-5 
           table
             caption Nota. Adaptada de Corporación Colombiana de investigación agropecuaria. (2021).
